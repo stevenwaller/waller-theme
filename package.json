@@ -1,0 +1,26 @@
+{
+  "name": "waller-theme",
+  "displayName": "Waller Theme",
+  "description": "A light theme",
+  "version": "0.0.1",
+  "publisher": "stevenwaller",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenwaller/waller-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Waller Theme",
+        "uiTheme": "vs",
+        "path": "./themes/waller-color-theme.json"
+      }
+    ]
+  }
+}
