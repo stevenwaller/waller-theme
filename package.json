@@ -2,7 +2,7 @@
   "name": "waller-theme",
   "displayName": "Waller Theme",
   "description": "A light theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "stevenwaller",
   "repository": {
     "type": "git",
