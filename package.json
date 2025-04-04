@@ -1,7 +1,7 @@
 {
   "name": "walloco-light-theme",
   "displayName": "Walloco Light Theme",
-  "description": "A light theme originally based on Bluloco",
+  "description": "A VS Code light theme originally based on Bluloco",
   "version": "0.0.1",
   "publisher": "stevenwaller",
   "repository": {
