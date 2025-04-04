@@ -1,7 +1,5 @@
 {
-  "name": "Walloco",
-  "$schema": "vscode://schemas/color-theme",
-  "type": "light",
+  "name": "Walloco Light Theme",
   "colors": {
     "activityBar.activeBorder": "#0099e1",
     "activityBar.background": "#395063",

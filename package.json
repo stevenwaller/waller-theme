@@ -1,15 +1,10 @@
 {
-  "name": "walloco-theme",
-  "displayName": "Walloco Theme",
-  "description": "A light theme",
-  "version": "0.1.0",
-  "publisher": "stevenwaller",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/stevenwaller/waller-theme.git"
-  },
+  "name": "walloco-light-theme",
+  "displayName": "Walloco Light Theme",
+  "description": "A light theme originally based on Bluloco",
+  "version": "0.0.1",
   "engines": {
-    "vscode": "^1.45.0"
+    "vscode": "^1.99.0"
   },
   "categories": [
     "Themes"
@@ -17,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Walloco Theme",
+        "label": "Walloco Light Theme",
         "uiTheme": "vs",
-        "path": "./themes/walloco-color-theme.json"
+        "path": "./themes/Walloco Light Theme-color-theme.json"
       }
     ]
   }
