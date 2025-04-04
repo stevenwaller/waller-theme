@@ -1,6 +1,6 @@
 {
-  "name": "waller-theme",
-  "displayName": "Waller Theme",
+  "name": "walloco-theme",
+  "displayName": "Walloco Theme",
   "description": "A light theme",
   "version": "0.1.0",
   "publisher": "stevenwaller",
@@ -17,9 +17,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Waller Theme",
+        "label": "Walloco Theme",
         "uiTheme": "vs",
-        "path": "./themes/waller-color-theme.json"
+        "path": "./themes/walloco-color-theme.json"
       }
     ]
   }
