@@ -3,18 +3,23 @@
   "displayName": "Walloco Light Theme",
   "description": "A light theme originally based on Bluloco",
   "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.99.0"
+  "publisher": "stevenwaller",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenwaller/walloco-light-theme.git"
   },
   "categories": [
     "Themes"
   ],
+  "engines": {
+    "vscode": "^1.10.0"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "Walloco Light Theme",
+        "label": "Walloco Light",
         "uiTheme": "vs",
-        "path": "./themes/Walloco Light Theme-color-theme.json"
+        "path": "./themes/walloco-light-color-theme.json"
       }
     ]
   }
